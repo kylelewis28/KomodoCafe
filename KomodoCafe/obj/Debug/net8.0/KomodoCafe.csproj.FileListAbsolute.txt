@@ -1,0 +1,4 @@
+C:\KomodoCafe\KomodoCafe\obj\Debug\net8.0\KomodoCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\KomodoCafe\KomodoCafe\obj\Debug\net8.0\KomodoCafe.AssemblyInfoInputs.cache
+C:\KomodoCafe\KomodoCafe\obj\Debug\net8.0\KomodoCafe.AssemblyInfo.cs
+C:\KomodoCafe\KomodoCafe\obj\Debug\net8.0\KomodoCafe.csproj.CoreCompileInputs.cache
